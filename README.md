@@ -1,3 +1,6 @@
+Projet en cours
+
+
 Modèle de Prédiction des Résultats de Matchs
 Objectif
 Prédire l'issue des matchs (victoire, nul, défaite) en fonction de divers facteurs tels que le lieu du match, l'historique des équipes, la compétition, etc.
